@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clearfix{
+    clear: both;
+}
+
+
+
+header{
+    background-image: url(img/bg1.jpg);
+    background-size: cover;
+    width: 100%;
+    height:676px;
+  
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.head-panel{
+    margin-top: 166px;
+    float: left;
+}
+.logo{
+    margin-left: 136px;
+}
+.best{
+    margin-top: 70px;
+    margin-left: 46px;
+    font-size: 36px;
+}
+.app{
+    margin-top: 65px;
+    margin-left: 100px;
+}
+.picphone{
+    margin-top: 77px;
+    margin-left: 160px;
+}
+/*end header*/
+/*start content*/
+.content{
+    width: 960px;
+    margin: 0 auto;
+}
+.picphone2{
+    margin-top: 59px;
+    margin-left: 31px;
+    float: left;
+}
+.content-text-1{
+    float: left;
+    margin-top: 257px;
+    margin-left: 48px;
+   
+}
+.content-text-1 p{
+   margin-top: 50px;
+   
+}
+.content-text-2{
+    margin-left: 70px;
+    margin-top: 280px;
+    float: left;
+}
+.content-text-2 p{
+    margin-top: 45px;
+}
+.picphone3{
+    float: right;
+   
+}
+.foot{
+    background-image: url(img/bg2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 338px;
+    text-align: center;
+}
+.contentfoot{
+    width: 960px;
+    margin: 0 auto;
+}
+.supfooter{
+    
+    padding-top: 70px;
+    color: white;
+}
+.get p{
+   border-radius: 50px;
+   background-color: white;
+   color: red;
+   width: 418px;
+   height: 85px;
+   margin-top: 20px;
+   margin-left: 274px;
+   text-align: center;
+   padding-top: 30px;
+   text-decoration: none;
+}
